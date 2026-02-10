@@ -117,7 +117,9 @@ function App() {
             </div>
           </div>
           <h1 className="title title--regular title--size-large title--weight-bold">Yapım Aşamasında</h1>
-          <p className="title title--subtitle title--size-semimedium title--weight-normal">Bu web adresine harika bir site geliyor. Yakın zamanda tekrar kontrol edin.</p>
+          <p className="title title--subtitle title--size-semimedium title--weight-normal">
+            Yakında hizmete açılacaktır.
+          </p>
         </div>
         <div className="error--shape__clouds">
           <svg id="f95fc14d-9eb7-4d11-bcb9-651fb6dd69f0" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2074.144 292.377">
